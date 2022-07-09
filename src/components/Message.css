@@ -1,0 +1,14 @@
+.message-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 90%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.message-successful {
+  border: 1px solid green;
+  color: green;
+}
